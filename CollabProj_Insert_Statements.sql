@@ -1,0 +1,61 @@
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (1, 'Project country', 'Gas management early accept. Long staff mission skin with street lose.
+Garden policy compare how including cover clearly.', 'Penetration Testing', 6);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (2, 'Project buy', 'Issue sure might me manage reflect. Interest kid its lose significant lay.', 'Penetration Testing', 10);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (3, 'Project beat', 'Least my toward hear recent process. Two despite here.
+Similar use start after financial answer. More executive society alone.', 'Penetration Testing', 3);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (4, 'Project season', 'Cover until attack. No history fine know full skill paper relationship. Majority finish question action save certain. Friend ten worker by industry.', 'Python, AWS', 10);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (5, 'Project million', 'Hair series check ten. Thousand author them scene.', 'Security Analysis', 5);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (6, 'Project water', 'Deal issue north city candidate role six. Source friend woman.', 'Python, AWS', 10);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (7, 'Project among', 'Worker present skill particularly. Budget personal after those reach. Speak rest than east finally else.', 'Python, AWS', 7);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (8, 'Project class', 'Democratic step state individual pick sort. Recently several class Democrat hundred million decision bed. Enough hold wish TV significant it address.', 'Security Analysis', 8);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (9, 'Project talk', 'Evening power knowledge why medical water. Officer social PM something foreign.
+Modern phone use.
+Enough later maybe first.', 'Penetration Testing', 8);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (10, 'Project military', 'Use address feeling above consumer issue under total. Success close home red executive trouble set. Cut sing if enough attention dark image.', 'Penetration Testing', 4);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (11, 'Project model', 'General dog green. Risk enjoy firm book already activity central.', 'Python, AWS', 6);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (12, 'Project ok', 'Protect social current line result become begin exactly. Recently floor hand early mean hand treat. War drive probably. Pass specific hard.', 'Python, AWS', 6);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (13, 'Project mind', 'Physical case wait religious professor ready. Campaign trade leg simply.
+Campaign only performance crime. Million doctor animal.', 'Security Analysis', 8);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (14, 'Project hour', 'Car group beautiful very brother maintain. Remain my lot edge. Look force happy face outside long including.', 'Python, AWS', 7);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (15, 'Project Mrs', 'Kind home church toward response people now. Quality film bring new against hold wide reveal.', 'Security Analysis', 6);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (16, 'Project past', 'Enough night sister matter smile body week. Benefit any leave administration.', 'Security Analysis', 5);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (17, 'Project these', 'And really respond weight nation eat recently debate. Require middle thus free.', 'Python, AWS', 5);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (18, 'Project war', 'Role ten hair but.
+Important not day sure alone one create. Into by southern act shake list. Any seat smile record.', 'Penetration Testing', 5);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (19, 'Project her', 'Own young something player gas since.
+Six president same arm right couple big. Court crime ground turn early run represent possible.', 'Penetration Testing', 6);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (20, 'Project prove', 'He resource although decision pattern. Beyond list more dream once available. Police loss behavior each.', 'Security Analysis', 9);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (21, 'Project unit', 'Dog need account easy identify go tough. Old page his letter of energy.', 'Python, AWS', 4);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (22, 'Project despite', 'While expert fight social.
+Expert same ability.', 'Security Analysis', 8);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (23, 'Project community', 'Send discussion note dream interest. Through choice sort trouble.', 'Python, AWS', 9);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (24, 'Project compare', 'No cut care figure buy suddenly morning central. Region maybe actually deal after specific.', 'Python, AWS', 4);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (25, 'Project real', 'Possible firm me dream. Include defense lay will professor million director bag.', 'Python, AWS', 3);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (26, 'Project size', 'Up head American news body may. Learn top pay place.
+Behind tree stage fire visit station investment.', 'Python, AWS', 8);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (27, 'Project young', 'Know major religious market sort wind. Draw suggest million. Skin then example subject we.', 'Python, AWS', 4);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (28, 'Project answer', 'Bad rise full doctor seek question. Improve democratic matter positive kitchen.', 'Penetration Testing', 3);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (29, 'Project field', 'Though set lawyer end why though. Region ability hope three hotel life not food.', 'Penetration Testing', 3);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (30, 'Project change', 'Property wish without music forget science. Despite computer hour finally notice. Once become back remember enter say.', 'Security Analysis', 10);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (31, 'Project conference', 'Class sea mission poor like career. Billion past already stay that.', 'Python, AWS', 10);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (32, 'Project east', 'Begin tax again guess current however game its. President more myself laugh.', 'Security Analysis', 8);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (33, 'Project ball', 'Other well defense. Brother myself green share by study.', 'Python, AWS', 6);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (34, 'Project late', 'Future structure edge western. Security cup right economic report remember.', 'Python, AWS', 4);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (35, 'Project task', 'Common management would soon. Sure wrong security sea property. South big result that.', 'Security Analysis', 10);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (36, 'Project investment', 'Major cost face and film magazine. Finish material friend reason between through yourself.', 'Penetration Testing', 7);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (37, 'Project source', 'Weight step church. With bank consumer total stuff boy. International season son third deal.
+Shoulder above act who.
+Call attorney sure however.', 'Penetration Testing', 4);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (38, 'Project suggest', 'Drop rule already compare her. Mean find meet that approach. Knowledge hold possible after story.', 'Python, AWS', 9);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (39, 'Project voice', 'City traditional cover state bar person. Apply take describe stay international property recently.', 'Penetration Testing', 8);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (40, 'Project something', 'Now edge add approach own leave. Picture section whatever structure. Table heavy reveal name score anyone.', 'Python, AWS', 10);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (41, 'Project keep', 'During draw town son traditional. Goal medical party baby strong scientist material painting.', 'Security Analysis', 7);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (42, 'Project available', 'Decide stuff meet city. Today important attorney month person person.', 'Python, AWS', 6);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (43, 'Project coach', 'Institution cup top bring. Walk want political service. Executive exist who none.', 'Python, AWS', 6);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (44, 'Project sing', 'Side certain small strategy couple exist long store. With able business production its center pattern. Develop road real radio grow chair nice.', 'Security Analysis', 6);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (45, 'Project direction', 'Party tough building system. Cause later can radio professional.', 'Security Analysis', 7);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (46, 'Project down', 'Those especially direction item. Whether economy that federal. Station study every only.', 'Security Analysis', 10);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (47, 'Project doctor', 'Almost sign consider trial investment national. Fly fly expect woman side.', 'Security Analysis', 6);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (48, 'Project quite', 'Court arrive three pick the. Serious purpose easy TV medical soon nation marriage.', 'Security Analysis', 5);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (49, 'Project over', 'Call after spring health structure play. Remain meeting finally. Kitchen science easy spring should provide.', 'Security Analysis', 3);
+INSERT INTO CollabProj (ProjectID, Name, Description, SkillsNeededLearned, NumberOfMembers) VALUES (50, 'Project positive', 'Tough cause stock improve resource wait network really. Ability military rather left change. Board item deal these dream skill.', 'Python, AWS', 4);

@@ -1,0 +1,55 @@
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (1, 'Training begin', 'Ten table successful room join. Clear adult adult. Top relationship dark.', 'On-Site', 1, 1);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (2, 'Training movement', 'Method seat field responsibility particular within. Interesting once show.', 'Online', 9, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (3, 'Training edge', 'Reason two station minute wait.', 'Online', 12, 1);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (4, 'Training cell', 'Popular concern range south.', 'On-Site', 6, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (5, 'Training use', 'Because management prevent. First themselves quickly.', 'Online', 8, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (6, 'Training institution', 'Hair guy beyond blue fact million. Economy guy car. Paper want magazine among.', 'Online', 4, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (7, 'Training remember', 'Walk group class task listen miss. National though visit. Two usually decade grow.', 'On-Site', 4, 1);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (8, 'Training once', 'Water than star country. Of race bank food within question measure.
+Each star drive daughter.', 'Online', 8, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (9, 'Training mother', 'You want of especially. Be white scene. Shoulder member bring certain box.', 'Online', 5, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (10, 'Training behavior', 'Admit collection Republican fire.', 'Online', 5, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (11, 'Training seek', 'Watch rather painting very garden. Natural lawyer sport or.', 'On-Site', 10, 1);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (12, 'Training positive', 'Major policy move upon. Man never third huge may which contain.', 'Online', 5, 1);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (13, 'Training politics', 'Color air hour deep glass street. Significant central cold food. Bar woman executive push.', 'Online', 4, 1);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (14, 'Training value', 'Wish situation reveal prove analysis bill.
+Those meeting season along similar.', 'Online', 3, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (15, 'Training decision', 'Black trip whom another particular sound. Director seven suddenly point.', 'Online', 6, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (16, 'Training toward', 'May people spring. Value foot hundred especially hundred suffer affect feeling.', 'Online', 2, 1);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (17, 'Training apply', 'Record style culture some. Read follow law soldier last prevent world. Outside step program.', 'On-Site', 10, 1);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (18, 'Training remember', 'Senior suddenly concern about in must give as. Certainly south surface participant.', 'On-Site', 12, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (19, 'Training civil', 'Shoulder attack arrive. Democratic above perhaps fear thought without contain. Lay race produce.', 'Online', 6, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (20, 'Training worry', 'Laugh third wind until after. Pass campaign into else. Outside by environment catch recently.', 'Online', 6, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (21, 'Training although', 'Bad property upon best family.', 'Online', 12, 1);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (22, 'Training everyone', 'Best money price doctor prepare. Window community kid glass.', 'Online', 2, 1);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (23, 'Training sometimes', 'Main value happen type nor so. Mrs wait agree line.', 'Online', 2, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (24, 'Training mean', 'Drug each many tax prove level. Fill music computer big girl news.', 'Online', 2, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (25, 'Training bit', 'Guess nation always hard best. Medical myself usually shake. Out reason property lot.', 'Online', 5, 1);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (26, 'Training approach', 'Soon bit property military speak fall. Care before too this.', 'Online', 9, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (27, 'Training college', 'Time rich draw step. Agreement value service. Believe since weight when.', 'On-Site', 1, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (28, 'Training card', 'Sense garden box artist. Those north paper. More for million choose camera relate.', 'Online', 10, 1);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (29, 'Training wait', 'Community happen figure military. At southern dinner morning affect involve. One education another.', 'On-Site', 12, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (30, 'Training system', 'Ever determine clearly mother perform service strategy.', 'On-Site', 8, 1);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (31, 'Training range', 'Discuss even little.', 'On-Site', 5, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (32, 'Training such', 'Fire senior set their.', 'Online', 3, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (33, 'Training partner', 'President usually research series animal prove.', 'On-Site', 12, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (34, 'Training record', 'Evidence myself girl movement sit newspaper. As decide system rock sell finish page.', 'On-Site', 7, 1);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (35, 'Training prevent', 'Apply foot family finally change. Property education through seat want challenge may good.', 'On-Site', 8, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (36, 'Training left', 'Whom Democrat into.
+Right hit but before those factor bed. Box share left mission exist in.', 'On-Site', 9, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (37, 'Training western', 'Strong husband agree far.
+Change include economy similar sport must whom. Together political least.', 'On-Site', 12, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (38, 'Training early', 'Only parent civil in prove big sport. Less industry wait south begin low seem.', 'Online', 7, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (39, 'Training call', 'Activity same couple give purpose note. People enough view soon later.', 'Online', 11, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (40, 'Training do', 'Worry tree president between remain. Five theory night.', 'On-Site', 10, 1);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (41, 'Training language', 'Current all although opportunity close recently. Apply president peace read.', 'On-Site', 4, 1);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (42, 'Training be', 'Leader idea you.', 'Online', 8, 1);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (43, 'Training its', 'Require family poor even science realize notice. Human suddenly social note fast help investment.', 'Online', 8, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (44, 'Training successful', 'Reflect rate industry fund training. Chair door say. Republican approach officer former describe.', 'On-Site', 3, 1);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (45, 'Training theory', 'Question sister listen be history. Foot you scientist simple.', 'Online', 3, 1);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (46, 'Training suggest', 'The begin husband. Day subject hot thank. Rise film my capital.', 'Online', 12, 1);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (47, 'Training push', 'Successful might should. Your source discover fill.
+How look too find down section wife indicate.', 'On-Site', 4, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (48, 'Training project', 'Close wife once turn push although top. Quickly lawyer marriage sea.', 'On-Site', 4, 1);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (49, 'Training inside', 'Economy partner nature piece. Fine seven forward specific in yourself degree.', 'On-Site', 6, 0);
+INSERT INTO TrainingProgram (ProgramID, Title, Description, ProgramType, Duration, Certification) VALUES (50, 'Training pattern', 'Sport easy spend song ask network. College decision dinner it trip game almost.', 'On-Site', 4, 1);
