@@ -41,26 +41,30 @@ GROUP BY c.Name
 ORDER BY JobCount DESC
 LIMIT 1;
 
--- Retrieve all collaborative projects with more than 5 members and at least one resource contributed by a company
-SELECT DISTINCT cp.Name
-FROM CollabProj cp
-WHERE cp.NumberOfMembers > 5
-AND EXISTS (
-    SELECT 1
-    FROM Resource r
-    WHERE r.CompanyID = cp.ProjectID
-    AND r.Availability = 1
-);
+-- Find the most popular job title (the one with the highest number of applications)
+SELECT 
+    j.Title AS JobTitle,
+    COUNT(ca.CandidateID) AS ApplicationCount
+FROM 
+    Job j
+JOIN 
+    Candidate ca ON j.JobID = ca.JobID
+GROUP BY 
+    j.Title
+ORDER BY 
+    ApplicationCount DESC
+LIMIT 1;
 
--- Find the users who have been members of collaborative projects involving endangered or critically endangered species
-SELECT DISTINCT u.Name
-FROM User u
-WHERE EXISTS (
-    SELECT 1
-    FROM Member m
-    JOIN CollabProj cp ON m.ProjectID = cp.ProjectID
-    JOIN Observation o ON cp.ProjectID = o.ProjectID
-    JOIN Species s ON o.SpeciesID = s.SpeciesID
-    WHERE m.UserID = u.UserID
-    AND s.IUCNStatus IN ('Endangered', 'Critically Endangered')
-);
+
+-- Find users who contributed the most hours to collaborative projects
+SELECT 
+    u.Name AS UserName,
+    SUM(m.HoursContributed) AS TotalHours
+FROM 
+    User u
+JOIN 
+    Member m ON u.UserID = m.UserID
+GROUP BY 
+    u.UserID, u.Name
+ORDER BY 
+    TotalHours DESC
